@@ -1,2 +1,8 @@
-# Portfolio
-To showcase my skills, projects, and achievements in a professional and visually appealing format.  To create a responsive and interactive website using modern web technologies (HTML, CSS, JavaScript).  To make it easy for recruiters and clients to view my work and contact me
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
